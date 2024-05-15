@@ -1,0 +1,30 @@
+header
+{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+
+}
+
+.listanav 
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+.listanav li
+{
+    font-size: 20px;
+    margin: 1rem;
+    padding-left: 50px;
+}
+
+header h1
+{
+    color: white;
+}
+

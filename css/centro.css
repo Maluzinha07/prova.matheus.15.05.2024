@@ -1,0 +1,24 @@
+.imagem
+{
+   background-image: url(../imagens/Star-Wars.webp);
+   height: 100vh;
+   background-repeat: no-repeat;
+   
+}
+
+section
+{
+   text-align: center;
+   color: #5E2129;
+   font-size: 30px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   padding-top: 300px;
+}
+
+ footer h1
+ {
+    color: white;
+    padding: 250px;
+    text-align: center;
+    background-color: red;
+ }
